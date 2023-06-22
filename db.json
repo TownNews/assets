@@ -8,8 +8,8 @@
       "status": "publish",
       "sections": ["nature", "scenery"],
       "priority": "medium",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/beautiful-sunset.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/beautiful-sunset.jpg"
+      "feature_image_url": "/src/assets/img/beautiful-sunset.jpg",
+      "asset_url": "/src/assets/img/beautiful-sunset.jpg"
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "status": "publish",
       "sections": ["pets", "humor"],
       "priority": "high",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/funny-cat-compilation"
+      "asset_url": "/src/assets/img/funny-cat-compilation"
     },
     {
       "id": 3,
@@ -29,8 +29,8 @@
       "status": "draft",
       "sections": ["health", "lifestyle"],
       "priority": "low",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/tips-for-better-sleep.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/tips-for-better-sleep.jpg"
+      "feature_image_url": "/src/assets/img/tips-for-better-sleep.jpg",
+      "asset_url": "/src/assets/img/tips-for-better-sleep.jpg"
     },
     {
       "id": 4,
@@ -40,8 +40,8 @@
       "status": "publish",
       "sections": ["arts"],
       "priority": "medium",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/surreal-artwork.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/surreal-artwork.jpg"
+      "feature_image_url": "/src/assets/img/surreal-artwork.jpg",
+      "asset_url": "/src/assets/img/surreal-artwork.jpg"
     },
     {
       "id": 5,
@@ -51,8 +51,8 @@
       "status": "publish",
       "sections": ["health", "lifestyle"],
       "priority": "high",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/benefits-of-meditation.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/benefits-of-meditation.jpg"
+      "feature_image_url": "/src/assets/img/benefits-of-meditation.jpg",
+      "asset_url": "/src/assets/img/benefits-of-meditation.jpg"
     },
     {
       "id": 6,
@@ -62,7 +62,7 @@
       "status": "publish",
       "sections": ["movies", "entertainment"],
       "priority": "high",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/top-movie-trailers"
+      "asset_url": "/src/assets/img/top-movie-trailers"
     },
     {
       "id": 7,
@@ -72,8 +72,8 @@
       "status": "publish",
       "sections": ["food", "lifestyle"],
       "priority": "medium",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/vegan-recipes.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/vegan-recipes.jpg"
+      "feature_image_url": "/src/assets/img/vegan-recipes.jpg",
+      "asset_url": "/src/assets/img/vegan-recipes.jpg"
     },
     {
       "id": 8,
@@ -83,8 +83,8 @@
       "status": "publish",
       "sections": ["pets"],
       "priority": "low",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/adorable-puppy.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/adorable-puppy.jpg"
+      "feature_image_url": "/src/assets/img/adorable-puppy.jpg",
+      "asset_url": "/src/assets/img/adorable-puppy.jpg"
     },
     {
       "id": 9,
@@ -94,7 +94,7 @@
       "status": "draft",
       "sections": ["music", "tutorials"],
       "priority": "medium",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/guitar-solo-tutorial"
+      "asset_url": "/src/assets/img/guitar-solo-tutorial"
     },
     {
       "id": 10,
@@ -104,8 +104,8 @@
       "status": "private",
       "sections": ["travel", "history"],
       "priority": "high",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/exploring-ancient-ruins.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/exploring-ancient-ruins.jpg"
+      "feature_image_url": "/src/assets/img/exploring-ancient-ruins.jpg",
+      "asset_url": "/src/assets/img/exploring-ancient-ruins.jpg"
     },
     {
       "id": 11,
@@ -115,8 +115,8 @@
       "status": "publish",
       "sections": ["travel", "scenery"],
       "priority": "medium",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/city-skylines.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/city-skylines.jpg"
+      "feature_image_url": "/src/assets/img/city-skylines.jpg",
+      "asset_url": "/src/assets/img/city-skylines.jpg"
     },
     {
       "id": 12,
@@ -126,8 +126,8 @@
       "status": "publish",
       "sections": ["career", "lifestyle"],
       "priority": "low",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/tips-for-remote-work.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/tips-for-remote-work.jpg"
+      "feature_image_url": "/src/assets/img/tips-for-remote-work.jpg",
+      "asset_url": "/src/assets/img/tips-for-remote-work.jpg"
     },
     {
       "id": 13,
@@ -137,7 +137,7 @@
       "status": "publish",
       "sections": ["health", "fitness"],
       "priority": "medium",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/yoga-for-beginners"
+      "asset_url": "/src/assets/img/yoga-for-beginners"
     },
     {
       "id": 14,
@@ -147,8 +147,8 @@
       "status": "publish",
       "sections": ["books", "entertainment"],
       "priority": "high",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/book-recommendations.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/book-recommendations.jpg"
+      "feature_image_url": "/src/assets/img/book-recommendations.jpg",
+      "asset_url": "/src/assets/img/book-recommendations.jpg"
     },
     {
       "id": 15,
@@ -158,8 +158,8 @@
       "status": "publish",
       "sections": ["nature", "scenery"],
       "priority": "high",
-      "feature_image_url": "https://github.com/TownNews/assets/blob/main/assets/img/gorgeous-waterfall.jpg",
-      "asset_url": "https://github.com/TownNews/assets/blob/main/assets/img/gorgeous-waterfall.jpg"
+      "feature_image_url": "/src/assets/img/gorgeous-waterfall.jpg",
+      "asset_url": "/src/assets/img/gorgeous-waterfall.jpg"
     }
   ]
 }
