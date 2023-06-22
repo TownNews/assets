@@ -3,7 +3,7 @@
     {
       "id": 1,
       "type": "image",
-      "post": "Beautiful Sunset",
+      "name": "Beautiful Sunset",
       "start_time": "2023-06-01T08:00:00",
       "status": "publish",
       "sections": ["nature", "scenery"],
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "type": "video",
-      "post": "Funny Cat Compilation",
+      "name": "Funny Cat Compilation",
       "start_time": "2023-06-02T10:30:00",
       "status": "publish",
       "sections": ["pets", "humor"],
@@ -24,7 +24,7 @@
     {
       "id": 3,
       "type": "post",
-      "post": "10 Tips for Better Sleep",
+      "name": "10 Tips for Better Sleep",
       "start_time": "2023-06-03T15:45:00",
       "status": "draft",
       "sections": ["health", "lifestyle"],
@@ -35,7 +35,7 @@
     {
       "id": 4,
       "type": "image",
-      "post": "Surreal Artwork",
+      "name": "Surreal Artwork",
       "start_time": "2023-06-04T09:15:00",
       "status": "publish",
       "sections": ["arts"],
@@ -46,7 +46,7 @@
     {
       "id": 5,
       "type": "post",
-      "post": "The Benefits of Meditation",
+      "name": "The Benefits of Meditation",
       "start_time": "2023-06-05T14:20:00",
       "status": "publish",
       "sections": ["health", "lifestyle"],
@@ -57,7 +57,7 @@
     {
       "id": 6,
       "type": "video",
-      "post": "Top 10 Movie Trailers of the Year",
+      "name": "Top 10 Movie Trailers of the Year",
       "start_time": "2023-06-06T16:00:00",
       "status": "publish",
       "sections": ["movies", "entertainment"],
@@ -67,7 +67,7 @@
     {
       "id": 7,
       "type": "post",
-      "post": "Delicious Vegan Recipes",
+      "name": "Delicious Vegan Recipes",
       "start_time": "2023-06-07T12:30:00",
       "status": "publish",
       "sections": ["food", "lifestyle"],
@@ -78,7 +78,7 @@
     {
       "id": 8,
       "type": "image",
-      "post": "Adorable Puppy",
+      "name": "Adorable Puppy",
       "start_time": "2023-06-08T11:10:00",
       "status": "publish",
       "sections": ["pets"],
@@ -89,7 +89,7 @@
     {
       "id": 9,
       "type": "video",
-      "post": "Guitar Solo Tutorial",
+      "name": "Guitar Solo Tutorial",
       "start_time": "2023-06-09T13:45:00",
       "status": "draft",
       "sections": ["music", "tutorials"],
@@ -99,7 +99,7 @@
     {
       "id": 10,
       "type": "post",
-      "post": "Exploring Ancient Ruins",
+      "name": "Exploring Ancient Ruins",
       "start_time": "2023-06-10T10:00:00",
       "status": "private",
       "sections": ["travel", "history"],
@@ -110,7 +110,7 @@
     {
       "id": 11,
       "type": "image",
-      "post": "City Skylines",
+      "name": "City Skylines",
       "start_time": "2023-06-11T09:30:00",
       "status": "publish",
       "sections": ["travel", "scenery"],
@@ -121,7 +121,7 @@
     {
       "id": 12,
       "type": "post",
-      "post": "Tips for Productive Remote Work",
+      "name": "Tips for Productive Remote Work",
       "start_time": "2023-06-12T14:15:00",
       "status": "publish",
       "sections": ["career", "lifestyle"],
@@ -132,7 +132,7 @@
     {
       "id": 13,
       "type": "video",
-      "post": "Yoga for Beginners",
+      "name": "Yoga for Beginners",
       "start_time": "2023-06-13T16:30:00",
       "status": "publish",
       "sections": ["health", "fitness"],
@@ -142,7 +142,7 @@
     {
       "id": 14,
       "type": "post",
-      "post": "Book Recommendations for Summer",
+      "name": "Book Recommendations for Summer",
       "start_time": "2023-06-14T10:45:00",
       "status": "publish",
       "sections": ["books", "entertainment"],
@@ -153,7 +153,7 @@
     {
       "id": 15,
       "type": "image",
-      "post": "Gorgeous Waterfall",
+      "name": "Gorgeous Waterfall",
       "start_time": "2023-06-15T12:00:00",
       "status": "publish",
       "sections": ["nature", "scenery"],
