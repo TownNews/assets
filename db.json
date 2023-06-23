@@ -19,6 +19,7 @@
       "status": "publish",
       "sections": ["pets", "humor"],
       "priority": "high",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/funny-cat-compilation.jpg",
       "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/funny-cat-compilation"
     },
     {
@@ -62,6 +63,7 @@
       "status": "publish",
       "sections": ["movies", "entertainment"],
       "priority": "high",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/top-movie-trailers.jpg",
       "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/top-movie-trailers"
     },
     {
@@ -94,6 +96,7 @@
       "status": "draft",
       "sections": ["music", "tutorials"],
       "priority": "medium",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial.jpg",
       "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial"
     },
     {
@@ -137,6 +140,7 @@
       "status": "publish",
       "sections": ["health", "fitness"],
       "priority": "medium",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners.jpg",
       "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners"
     },
     {
