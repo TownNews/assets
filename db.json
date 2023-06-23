@@ -167,18 +167,6 @@
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/book-recommendations.jpg",
       "permalink": "/book-recommendations.jpg",
       "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
-    },
-    {
-      "id": 15,
-      "type": "gallery",
-      "name": "Gorgeous Waterfall",
-      "start_time": "2023-06-15T12:00:00",
-      "status": "publish",
-      "sections": ["nature", "scenery"],
-      "priority": "high",
-      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/gorgeous-waterfall.jpg",
-      "permalink": "/gorgeous-waterfall.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     }
   ],
   "assets": [
