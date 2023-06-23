@@ -9,7 +9,8 @@
       "sections": ["nature", "scenery"],
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/beautiful-sunset.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/beautiful-sunset.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/beautiful-sunset.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 2,
@@ -20,18 +21,20 @@
       "sections": ["pets", "humor"],
       "priority": "high",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/funny-cat-compilation.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/funny-cat-compilation"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/funny-cat-compilation",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 3,
-      "type": "post",
+      "type": "article",
       "name": "10 Tips for Better Sleep",
       "start_time": "2023-06-03T15:45:00",
       "status": "draft",
       "sections": ["health", "lifestyle"],
       "priority": "low",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/tips-for-better-sleep.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/tips-for-better-sleep.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/tips-for-better-sleep.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 4,
@@ -42,18 +45,20 @@
       "sections": ["arts"],
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/surreal-artwork.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/surreal-artwork.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/surreal-artwork.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 5,
-      "type": "post",
+      "type": "article",
       "name": "The Benefits of Meditation",
       "start_time": "2023-06-05T14:20:00",
       "status": "publish",
       "sections": ["health", "lifestyle"],
       "priority": "high",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/benefits-of-meditation.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/benefits-of-meditation.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/benefits-of-meditation.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 6,
@@ -64,18 +69,20 @@
       "sections": ["movies", "entertainment"],
       "priority": "high",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/top-movie-trailers.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/top-movie-trailers"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/top-movie-trailers",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 7,
-      "type": "post",
+      "type": "article",
       "name": "Delicious Vegan Recipes",
       "start_time": "2023-06-07T12:30:00",
       "status": "publish",
       "sections": ["food", "lifestyle"],
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/vegan-recipes.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/vegan-recipes.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/vegan-recipes.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "sections": ["pets"],
       "priority": "low",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/adorable-puppy.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/adorable-puppy.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/adorable-puppy.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 9,
@@ -97,18 +105,20 @@
       "sections": ["music", "tutorials"],
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 10,
-      "type": "post",
+      "type": "article",
       "name": "Exploring Ancient Ruins",
       "start_time": "2023-06-10T10:00:00",
       "status": "private",
       "sections": ["travel", "history"],
       "priority": "high",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/exploring-ancient-ruins.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/exploring-ancient-ruins.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/exploring-ancient-ruins.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 11,
@@ -119,18 +129,20 @@
       "sections": ["travel", "scenery"],
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/city-skylines.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/city-skylines.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/city-skylines.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 12,
-      "type": "post",
+      "type": "article",
       "name": "Tips for Productive Remote Work",
       "start_time": "2023-06-12T14:15:00",
       "status": "publish",
       "sections": ["career", "lifestyle"],
       "priority": "low",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/tips-for-remote-work.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/tips-for-remote-work.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/tips-for-remote-work.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 13,
@@ -141,18 +153,20 @@
       "sections": ["health", "fitness"],
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 14,
-      "type": "post",
+      "type": "article",
       "name": "Book Recommendations for Summer",
       "start_time": "2023-06-14T10:45:00",
       "status": "publish",
       "sections": ["books", "entertainment"],
       "priority": "high",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/book-recommendations.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/book-recommendations.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/book-recommendations.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 15,
@@ -163,7 +177,78 @@
       "sections": ["nature", "scenery"],
       "priority": "high",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/gorgeous-waterfall.jpg",
-      "asset_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/gorgeous-waterfall.jpg"
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/gorgeous-waterfall.jpg",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
+    }
+  ],
+  "assets": [
+    {
+      "id": 1,
+      "type": "image",
+      "name": "Beautiful Sunset",
+      "start_time": "2023-06-01T08:00:00",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/beautiful-sunset.jpg"
+    },
+    {
+      "id": 2,
+      "type": "video",
+      "name": "Funny Cat Compilation",
+      "start_time": "2023-06-02T10:30:00",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/funny-cat-compilation.jpg",
+    },
+    {
+      "id": 4,
+      "type": "image",
+      "name": "Surreal Artwork",
+      "start_time": "2023-06-04T09:15:00",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/surreal-artwork.jpg"
+    },
+    {
+      "id": 6,
+      "type": "video",
+      "name": "Top 10 Movie Trailers of the Year",
+      "start_time": "2023-06-06T16:00:00",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/top-movie-trailers"
+    },
+    {
+      "id": 8,
+      "type": "image",
+      "name": "Adorable Puppy",
+      "start_time": "2023-06-08T11:10:00",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/adorable-puppy.jpg",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/adorable-puppy.jpg"
+    },
+    {
+      "id": 9,
+      "type": "video",
+      "name": "Guitar Solo Tutorial",
+      "start_time": "2023-06-09T13:45:00",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial.jpg",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial"
+    },
+    {
+      "id": 11,
+      "type": "image",
+      "name": "City Skylines",
+      "start_time": "2023-06-11T09:30:00",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/city-skylines.jpg",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/city-skylines.jpg"
+    },
+    {
+      "id": 13,
+      "type": "video",
+      "name": "Yoga for Beginners",
+      "start_time": "2023-06-13T16:30:00",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners.jpg",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners"
+    },
+    {
+      "id": 15,
+      "type": "image",
+      "name": "Gorgeous Waterfall",
+      "start_time": "2023-06-15T12:00:00",
+      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/gorgeous-waterfall.jpg",
+      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/gorgeous-waterfall.jpg"
     }
   ]
 }
