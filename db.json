@@ -96,30 +96,6 @@
       "permalink": "/adorable-puppy.jpg",
       "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
-    {
-      "id": 9,
-      "type": "video",
-      "name": "Guitar Solo Tutorial",
-      "start_time": "2023-06-09T13:45:00",
-      "status": "draft",
-      "sections": ["music", "tutorials"],
-      "priority": "medium",
-      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/guitar-solo-tutorial.jpg",
-      "permalink": "/guitar-solo-tutorial",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
-    },
-    {
-      "id": 10,
-      "type": "article",
-      "name": "Exploring Ancient Ruins",
-      "start_time": "2023-06-10T10:00:00",
-      "status": "private",
-      "sections": ["travel", "history"],
-      "priority": "high",
-      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/exploring-ancient-ruins.jpg",
-      "permalink": "/exploring-ancient-ruins.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
-    }
   ],
   "assets": [
     {
