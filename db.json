@@ -119,54 +119,6 @@
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/exploring-ancient-ruins.jpg",
       "permalink": "/exploring-ancient-ruins.jpg",
       "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
-    },
-    {
-      "id": 11,
-      "type": "gallery",
-      "name": "City Skylines",
-      "start_time": "2023-06-11T09:30:00",
-      "status": "publish",
-      "sections": ["travel", "scenery"],
-      "priority": "medium",
-      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/city-skylines.jpg",
-      "permalink": "/city-skylines.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
-    },
-    {
-      "id": 12,
-      "type": "article",
-      "name": "Tips for Productive Remote Work",
-      "start_time": "2023-06-12T14:15:00",
-      "status": "publish",
-      "sections": ["career", "lifestyle"],
-      "priority": "low",
-      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/tips-for-remote-work.jpg",
-      "permalink": "/tips-for-remote-work.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
-    },
-    {
-      "id": 13,
-      "type": "video",
-      "name": "Yoga for Beginners",
-      "start_time": "2023-06-13T16:30:00",
-      "status": "publish",
-      "sections": ["health", "fitness"],
-      "priority": "medium",
-      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/yoga-for-beginners.jpg",
-      "permalink": "/yoga-for-beginners",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
-    },
-    {
-      "id": 14,
-      "type": "article",
-      "name": "Book Recommendations for Summer",
-      "start_time": "2023-06-14T10:45:00",
-      "status": "publish",
-      "sections": ["books", "entertainment"],
-      "priority": "high",
-      "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/book-recommendations.jpg",
-      "permalink": "/book-recommendations.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     }
   ],
   "assets": [
@@ -211,27 +163,6 @@
       "name": "Guitar Solo Tutorial",
       "start_time": "2023-06-09T13:45:00",
       "permalink": "#"
-    },
-    {
-      "id": 11,
-      "type": "image",
-      "name": "City Skylines",
-      "start_time": "2023-06-11T09:30:00",
-      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/city-skylines.jpg"
-    },
-    {
-      "id": 13,
-      "type": "video",
-      "name": "Yoga for Beginners",
-      "start_time": "2023-06-13T16:30:00",
-      "permalink": "/yoga-for-beginners"
-    },
-    {
-      "id": 15,
-      "type": "image",
-      "name": "Gorgeous Waterfall",
-      "start_time": "2023-06-15T12:00:00",
-      "permalink": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/gorgeous-waterfall.jpg",
     }
   ]
 }
