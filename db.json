@@ -10,7 +10,7 @@
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/beautiful-sunset.jpg",
       "permalink": "/beautiful-sunset.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 2,
@@ -46,7 +46,7 @@
       "priority": "medium",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/surreal-artwork.jpg",
       "permalink": "/surreal-artwork.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     },
     {
       "id": 5,
@@ -94,7 +94,7 @@
       "priority": "low",
       "feature_image_url": "https://jmiller.wpapp.us-corp-dev-3.vip.tndev.net/content/uploads/assets/img/adorable-puppy.jpg",
       "permalink": "/adorable-puppy.jpg",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam eros vel enim rhoncus, non aliquet sapien ullamcorper."
     }
   ]
 }
